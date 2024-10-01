@@ -1,0 +1,6 @@
+<div class="home-icon">
+  <svg aria-hidden="true" focusable="false" class="icon-home" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="1em" height="1em">
+    <!-- Contenu de l'icône SVG ici -->
+  </svg>
+  <span class="visuallyhidden">Accueil</span>
+</div>
