@@ -4,7 +4,7 @@
       <div class="flex flex-col items-center justify-between p-4 transition-all duration-300 ease-in-out bg-white rounded-lg shadow-lg md:flex-row hover:shadow-xl">
         <!-- Logo et titre -->
         <div class="flex items-center mb-4 transition-transform duration-300 ease-in-out md:mb-0 hover:scale-105">
-          <img src="/images/logo/logo-adna.png" alt="Logo ADNA" class="w-auto h-12 mr-3">
+          <router-link to="/"><img src="/images/logo/logo-adna.png" alt="Logo ADNA" class="w-auto h-12 mr-3"></router-link>
           <h1 class="text-lg font-bold text-yellow-700 transition-colors duration-300 ease-in-out hover:text-yellow-600">
             CONGRÈS NDOGBATJECK
           </h1>

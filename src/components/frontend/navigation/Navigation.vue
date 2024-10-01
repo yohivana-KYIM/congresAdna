@@ -30,13 +30,13 @@
             </div>
             <span class="mt-1 text-xs">Médiathèque</span>
           </div>
-          <div @click="toggleSubmenu('hymne')" class="cursor-pointer flex flex-col items-center hover:bg-[#8b6b10] rounded-lg px-2 py-1 transition-all duration-300">
+              <!-- Router link for Hymne -->
+              <router-link to="/hynme" class="cursor-pointer flex flex-col items-center hover:bg-[#8b6b10] rounded-lg px-2 py-1 transition-all duration-300">
             <div class="icon-circle bg-[#FF6347]">
               <img src="/images/menu/hymne.svg" alt="Hymne" class="w-6 h-6">
             </div>
             <span class="mt-1 text-xs">Hymne</span>
-          </div>
-
+          </router-link>
           <!-- Language selector -->
           <div class="relative flex flex-col items-center">
             <div class="icon-circle bg-[#FF6347]">
