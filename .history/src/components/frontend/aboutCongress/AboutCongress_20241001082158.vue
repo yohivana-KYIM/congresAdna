@@ -2,7 +2,7 @@
   <div class="flex flex-col p-4 md:p-8 bg-site-bg md:flex-row md:space-x-6">
     <!-- Left Section: Image -->
     <div class="order-1 w-full p-4 md:w-1/3 md:p-6">
-      <img src="../assets/images/about.jpg" alt="Congrès Ndogbatjeck" class="w-full h-auto rounded-lg shadow-lg">
+      <img src="../assets/images/temps-fort.jpg" alt="Congrès Ndogbatjeck" class="w-full h-auto rounded-lg shadow-lg">
     </div>
 
     <!-- Right Section: Text -->
